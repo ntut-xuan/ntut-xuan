@@ -1,16 +1,20 @@
-### Hi there 👋
+### 嗨，我是 Uriah
 
-<!--
-**ntut-xuan/ntut-xuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+黃漢軒
 
-Here are some ideas to get you started:
+國立臺北科技大學 資訊工程系
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+高雄血統 / 臺南人
+
+喜歡 Coding
+
+### 在找筆記嗎
+
+ - [離散數學 - DiscreteMathMarkdown](https://github.com/ntut-xuan/DiscreteMathMarkdown)
+ - [計算機組織 — ComputerOrganizationAndDesignNote](https://github.com/ntut-xuan/ComputerOrganizationAndDesignNote)
+ - [統計 - StatisticsForBusinessAndEconomics](https://github.com/ntut-xuan/Statistics-for-Business-And-Economics-Markdown)
+
+> Wating to build :)
+>
+> - [資料科學導論 — IntroduceToDataScience]
+> - [機率 — Probability]
