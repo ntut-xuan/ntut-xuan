@@ -13,8 +13,4 @@
  - [離散數學 - DiscreteMathMarkdown](https://github.com/ntut-xuan/DiscreteMathMarkdown)
  - [計算機組織 — ComputerOrganizationAndDesignNote](https://github.com/ntut-xuan/ComputerOrganizationAndDesignNote)
  - [統計 - StatisticsForBusinessAndEconomics](https://github.com/ntut-xuan/Statistics-for-Business-And-Economics-Markdown)
-
-> Wating to build :)
->
-> - [資料科學導論 — IntroduceToDataScience]
-> - [機率 — Probability]
+ - [資料科學導論 — IntroduceToDataScience](https://github.com/ntut-xuan/DataScienceNote)
