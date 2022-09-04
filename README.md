@@ -1,16 +1,21 @@
-### 嗨，我是 Uriah
+### 關於我
 
-黃漢軒
+嗨，我是 Uriah
 
-國立臺北科技大學 資訊工程系
+本名黃漢軒，來自臺南，目前就讀國立臺北科技大學資訊工程系。
 
-高雄血統 / 臺南人
+是個算法退役選手（ICPC Regional Rank 65th），目前專攻全端網頁設計，在軟體設計、聊天機器人略有鑽研。
 
-喜歡 Coding
+### 聯繫我
 
-### 在找筆記嗎
+個人網站：[ntut-xuan.github.io](https://ntut-xuan.github.io/)
 
- - [離散數學 - DiscreteMathMarkdown](https://github.com/ntut-xuan/DiscreteMathMarkdown)
- - [計算機組織 — ComputerOrganizationAndDesignNote](https://github.com/ntut-xuan/ComputerOrganizationAndDesignNote)
- - [統計 - StatisticsForBusinessAndEconomics](https://github.com/ntut-xuan/Statistics-for-Business-And-Economics-Markdown)
- - [資料科學導論 — DataScienceNote](https://github.com/ntut-xuan/DataScienceNote)
+信箱：[sigtunatw@gmail.com](sigtunatw@gmail.com)
+
+Instagram：[qtrabit.2_.1_.3_](https://www.instagram.com/qtrabit.2_.1_.3_/)
+
+Discord：`Cylinder#1811`
+
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ntut-xuan&include_all_commits=true&theme=tokyonight)
