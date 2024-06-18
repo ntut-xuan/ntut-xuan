@@ -12,10 +12,6 @@
 
 信箱：[sigtunatw@gmail.com](sigtunatw@gmail.com)
 
-Instagram：[qtrabit.2_.1_.3_](https://www.instagram.com/qtrabit.2_.1_.3_/)
-
-Discord：`Cylinder#1811`
-
 ### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ntut-xuan&include_all_commits=true&theme=tokyonight)
