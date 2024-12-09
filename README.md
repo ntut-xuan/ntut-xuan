@@ -1,6 +1,6 @@
-# Hej, I'm Clyde (Huang, Han-Xuan).
+## Hej, I'm Clyde (Huang, Han-Xuan).
 
-## About Me
+### About Me
 
 My name is Huang, Han-Xuan from Tainan, Taiwan. 
  - Graduated at National Taipei University of Technology. 
@@ -29,9 +29,14 @@ There is the project I would like to bring:
 
 I'm a projectholic, Feel free to discuss if you have any idea!
 
-## Contact Me
+### Contact Me
 
 Personal Website: [ntut-xuan.github.io](ntut-xuan.github.io)
+
 E-mail: [xuan910625.cs13@nycu.edu.tw](mailto://xuan910625.cs13@nycu.edu.tw)
+
+LinkedIn: [Han-Xuan (Clyde) Huang](https://www.linkedin.com/in/han-xuan-huang-3b50b4238/)
+
+### Interesting Stat
 
 ![](https://github-readme-stats.vercel.app/api?username=ntut-xuan&include_all_commits=true&theme=tokyonight)
