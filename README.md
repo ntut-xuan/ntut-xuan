@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is Huang, Han-Xuan from Tainan, Taiwan. 
+I'm Huang, Han-Xuan. From Tainan, Taiwan. 
  - Graduated at National Taipei University of Technology. 
  - Now studying master program at Institute of Computer and Communications Security, National Yang-Ming Chiao-Tong University.
 
