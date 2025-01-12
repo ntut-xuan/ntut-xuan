@@ -4,7 +4,7 @@
 
 I'm Huang, Han-Xuan. From Tainan, Taiwan. 
  - Graduated at National Taipei University of Technology. 
- - Now studying master program at Institute of Computer and Communications Security, National Yang-Ming Chiao-Tong University.
+ - Now studying master program at Institute of Computer and Communications Security, National Yang-Ming Chiao-Tung University.
 
 I'm interest on Networking, Cyber Securty (Sandbox and Malware) and Network Security and still proactive develop lot of interest. 
 
